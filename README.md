@@ -2,7 +2,7 @@
 
 Interactive Excel dashboard analyzing 500 marketing campaigns across 5 channels and 4 regions: return on ad spend, cost efficiency and budget control.
 
-![Dashboard](screenshots/01_dashboard_full.png)
+![Dashboard](Screenshots/01_dashboard_full.png)
 
 ## Business problem
 Marketing teams need to know which channels and regions turn ad spend into revenue. This project converts raw campaign records into a dashboard that tracks profitability, efficiency and ROAS, and highlights underperforming channels.
@@ -37,9 +37,9 @@ Marketing teams need to know which channels and regions turn ad spend into reven
 4. Designed the dashboard with 7 KPI cards, 5 charts, slicers and a date timeline.
 
 ## Screenshots
-![Filtered view](screenshots/02_dashboard_facebook_filter.png)
-![Power Query steps](screenshots/03_power_query_steps.png)
-![Pivot tables](screenshots/04_pivot_tables.png)
+![Filtered view](Screenshots/02_dashboard_facebook_filter.png)
+![Power Query steps](Screenshots/03_power_query_steps.png)
+![Pivot tables](Screenshots/04_pivot_tables.png)
 
 ## Files
 | File | Purpose |
